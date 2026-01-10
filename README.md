@@ -1,7 +1,25 @@
 # React Admin Dashboard
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+A responsive Admin Dashboard built using React and Material UI.  
+The project includes reusable components, data visualization, and theme support.
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+## 🚀 Features
+- Dashboard layout with sidebar & topbar
+- Light & Dark mode toggle
+- Data tables using Material UI DataGrid
+- Charts and analytics sections
+- Responsive UI
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+## 🛠️ Tech Stack
+- React
+- Material UI (MUI)
+- JavaScript
+- CSS
+
+## 📦 Setup Instructions
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start`
+
+## 📌 Note
+This project was built for learning and practicing React component structure, UI design, and state management.
